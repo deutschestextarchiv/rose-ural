@@ -10,7 +10,7 @@ This repository provides TEI-XML sources for:
 <img width="200" height="335" alt="image" src="https://github.com/user-attachments/assets/29327b83-5f09-4aed-9085-6dee354bb9d3" />
 </p>
 
-The original text and annotation were provided to the [German Text Archive](https://www.deutschestextarchiv.de/) by the [OCR-D project](https://ocr-d.de/), with a lot of post-correction alreay done by several contributors.
+The original text and annotation were provided to the [German Text Archive](https://www.deutschestextarchiv.de/) by the [OCR-D project](https://ocr-d.de/), with a lot of post-correction already done by several contributors.
 
 There are still a lot of things to do:
 
@@ -18,7 +18,7 @@ There are still a lot of things to do:
 * fix the `<table>` messes
 * check dashes
 * check quotation marks
-* check notation of fractions ([DTABf documtation](https://deutschestextarchiv.de/doku/basisformat/trSonderzeichen.html))
+* check notation of fractions ([DTABf documentation](https://deutschestextarchiv.de/doku/basisformat/trSonderzeichen.html))
 * provide and check chemical formulas, using `<formula notation="TeX">` (see https://github.com/deutschestextarchiv/dtabf/issues/127)
 * ...
 
