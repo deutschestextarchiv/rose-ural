@@ -308,13 +308,12 @@ formulierten Richtlinien und wurde in Richtung des Zielformats <a href="http://w
       <div type="preface">
         <pb facs="#f0008" xml:id="img_0008"/>
         <pb facs="#f0009" n="[VII]"/>
-        <p>
+        <head rendition="#g">
           <lb/>Vorrede
-          <lb/>
-          <lb/>
-        </p>
+        </head>
+        <lb/><milestone rendition="#hr" unit="section"/>
         <p>
-          <lb/>Um den Leser mit dem genau bekannt zu machen,
+          <lb/><hi rendition="#in">U</hi>m den Leser mit dem genau bekannt zu machen,
           <lb/>was die Veranlassung zu unserer Expedition gab,
           <lb/>schalte ich hier mit der Erlaubniss des Herrn v. Hum-
           <lb/>boldt aus der historischen Einleitung seines noch unge-
@@ -323,7 +322,7 @@ formulierten Richtlinien und wurde in Richtung des Zielformats <a href="http://w
         </p>
         <p>
           <lb/>„Ich glaube die Dankbarkeit, die ich dem erha-
-          <lb/>"benen Monarchen, auf dessen Befehl ich die Reise in
+          <lb/>„benen Monarchen, auf dessen Befehl ich die Reise in
           <lb/>„das asiatische Russland unternommen und ausgeführt
           <lb/>„habe, nicht auf eine würdigere Weise an den Tag
           <lb/>„legen zu können, als indem ich einfach erzähle, was
@@ -331,9 +330,9 @@ formulierten Richtlinien und wurde in Richtung des Zielformats <a href="http://w
           <lb/>„die Mittel zu Erreichung wissenschaftlicher Zwecke
           <lb/>„dargeboten wurden. Im Sommer des Jahres 1827, als ich
           <lb/>„eben erst nach einem langen Aufenthalte in Frank-
-          <lb/>"reich in mein Vaterland zurückgekehrt war, wurde
+          <lb/>„reich in mein Vaterland zurückgekehrt war, wurde
           <lb/>„ich von dem Kaiserlich Russischen Staats- und Fi-
-          <lb/>"nanz-Minister, Herrn Grafen von Cancrin aufgefor-
+          <lb/>„nanz-Minister, Herrn Grafen von Cancrin aufgefor-
           <lb/>„dert, ihm meine Ansichten über den Nutzen einer
           <lb/>„baldigst in Curs zu setzenden Platin-Münze aus den
           <lb/>„Erzeugnissen des Urals und über das gesetzliche Ver-
@@ -341,9 +340,9 @@ formulierten Richtlinien und wurde in Richtung des Zielformats <a href="http://w
           <lb/>„den anderen edeln Metalle mitzutheilen. Ich war
           <lb/>„schon in früherer Zeit von dem spanischen Gouver-
           <lb/>„nement officiell veranlasst worden, denselben Gegen-
-          <lb/>"stand zu bearbeiten; auch wurde, während des Wie-
-          <lb/>"ner Congresses, von Privatpersonen den versammel-
-          <lb/>"ten Monarchen der Antrag gemacht, aus dem ameri-
+          <lb/>„stand zu bearbeiten; auch wurde, während des Wie-
+          <lb/>„ner Congresses, von Privatpersonen den versammel-
+          <lb/>„ten Monarchen der Antrag gemacht, aus dem ameri-
           <lb/>„kanischen Platin eine in allen Staats-Cassen anzu-
           <lb/>„nehmende Münze schlagen zu lassen. Die Besorg-
         </p>
@@ -354,7 +353,7 @@ formulierten Richtlinien und wurde in Richtung des Zielformats <a href="http://w
           <lb/>„besondere Freude, es hier aussprechen zu müssen)
           <lb/>„durch mehrjährige Erfahrung, bei sehr gemässigter Emi-
           <lb/>„mission der Platin-Münze und bei der weiten Ausdeh-
-          <lb/>nung des Kaiserreichs, nicht gerechtfertigt worden:
+          <lb/>„nung des Kaiserreichs, nicht gerechtfertigt worden:
           <lb/>„indessen hatte die freimüthigste Discussion über eine
           <lb/>„wichtige staatswirthschaftliche Frage nicht das eh-
           <lb/>„renvolle Vertrauen gemindert, das mir geschenkt war.
@@ -368,7 +367,7 @@ formulierten Richtlinien und wurde in Richtung des Zielformats <a href="http://w
           <lb/>„der <choice><sic>nnablässig</sic><corr>unablässig</corr></choice> so viele wissenschaftliche Unterneh-
           <lb/>„mungen und Institute in das Leben gerufen hat, von
           <lb/>„den allerhöchsten Befehlen Sr. Maj. des Kaisers Ni-
-          <lb/>colaus in Kenntniss gesetzt wurde, laut deren meine
+          <lb/>„colaus in Kenntniss gesetzt wurde, laut deren meine
           <lb/>„Reise, in grösserer Ausdehnung und nach den sorg-
           <lb/>„fältigsten Vorbereitungen, auf alleinige Kosten
           <lb/>„der Krone, ausgeführt werden sollte. Diese Nach-
@@ -473,41 +472,42 @@ formulierten Richtlinien und wurde in Richtung des Zielformats <a href="http://w
           <lb/>derung des Urals und des Altaischen Erzgebirges zusam-
           <lb/>menzufassen. Nach diesem Plane hatte ich auch
           <lb/>die einzelnen Gegenstände zu bearbeiten und bekannt
-          <lb/>zu machen angefangen<hi rendition="#sup">1</hi>), als Herr von Humboldt
-        </p>
-        <note place="foot" n="[footnote reference]">
-          <lb/>1) Die einzelnen Aufsätze, welche ich auf diese Weise
-          <lb/>bekannt machte, sind in Poggendorff’s Annalen für Chemie
-          <lb/>und Physik abgedruckt, und bestehen im Ganzen aus folgenden:
-        </note>
-        <note place="foot" n="[footnote reference]">
-          <lb/>1. Ueber zwei neue Tellurerze vom Altai. B. XVIII, S. 64.
-        </note>
-        <p>
-          <lb/>2. Ueber die chemische Zusammensetzung des gediegenen
-          <lb/>Goldes im Allgemeinen, und besonders des vom Ural. B.
-          <lb/>XXIII, S. 161.
-        </p>
-        <note place="foot" n="[footnote reference]">
-          <lb/>3. Ueber die Krystallformen des Goldes und des Silbers. B.
-          <lb/>XXIII, S. 196.
-        </note>
-        <note place="foot" n="[footnote reference]">
-          <lb/>4 — 6. 3 Aufsätze über den Uralit. B. XXII, S. 321., B.
-          <lb/>XXVII, S. 97., B XXXI, S. 609.
-        </note>
-        <note place="foot" n="[footnote reference]">
-          <lb/>7. Ueber die Gebirgsarten, welche mit dem Namen Grünstein
-          <lb/>und Grünsteinporphyr bezeichnet werden. B. XXXIV,
-          <lb/>S. 1. Hierbei siud besonders die Uralischen Grünsteine
-          <lb/>beschrieben worden.
-        </note>
-        <p>
-          <lb/>8. Ueber die am Ural vorkommenden krystallisirten Verbin-
-          <lb/>dungen von Osmium -Iridium. B. XXIX, S. 452.
-        </p>
-        <pb facs="#f0013" n="XI"/>
-        <p>
+          <lb/>zu machen angefangen<note place="foot" n="1)">
+            <p>
+              <lb/>Die einzelnen Aufsätze, welche ich auf diese Weise
+              <lb/>bekannt machte, sind in Poggendorff’s Annalen für Chemie
+              <lb/>und Physik abgedruckt, und bestehen im Ganzen aus folgenden:
+            </p>
+            <list>
+              <item>
+                <lb/>1. Ueber zwei neue Tellurerze vom Altai. B. XVIII, S. 64.
+              </item>
+              <item>
+                <lb/>2. Ueber die chemische Zusammensetzung des gediegenen
+                <lb/>Goldes im Allgemeinen, und besonders des vom Ural. B.
+                <lb/>XXIII, S. 161.
+              </item>
+              <item>
+                <lb/>3. Ueber die Krystallformen des Goldes und des Silbers. B.
+                <lb/>XXIII, S. 196.
+              </item>
+              <item>
+                <lb/>4 — 6. 3 Aufsätze über den Uralit. B. XXII, S. 321., B.
+                <lb/>XXVII, S. 97., B XXXI, S. 609.
+              </item>
+              <item>
+                <lb/>7. Ueber die Gebirgsarten, welche mit dem Namen Grünstein
+                <lb/>und Grünsteinporphyr bezeichnet werden. B. XXXIV,
+                <lb/>S. 1. Hierbei siud besonders die Uralischen Grünsteine
+                <lb/>beschrieben worden.
+              </item>
+              <item>
+                <lb/>8. Ueber die am Ural vorkommenden krystallisirten Verbin-
+                <lb/>dungen von Osmium -Iridium. B. XXIX, S. 452.
+              </item>
+            </list>
+          </note>, als Herr von Humboldt
+          <pb facs="#f0013" n="XI"/>
           <lb/>mir bei seiner Abreise nach Paris im Sommer 1831 den
           <lb/>Wunsch zu erkennen gab, dass ich jene allgemeine
           <lb/>Schilderung zu einem Berichte über die ganze Expe-
@@ -27400,15 +27400,15 @@ formulierten Richtlinien und wurde in Richtung des Zielformats <a href="http://w
           <lb/>Krystalle die unsymmetrischen Prismen, die an den
           <lb/>Enden vorzugsweise mit den Flächen g begränzt sind;
           <lb/>an einem andern Stücke sind die Krystalle kürzer,
-        </p>
-        <fw place="bottom" type="sig">
-          <lb/>35
-        </fw>
-        <pb facs="#f0580" n="546"/>
-        <p>
+          <fw place="bottom" type="sig">
+            <lb/>35
+          </fw>
+          <pb facs="#f0580" n="546"/>
           <lb/>dicker und an den Enden mit einer gerundeten Fläche,
           <lb/>in der Richtung der Fläche b begränzt. Die Krystalle
           <lb/>kommen in beiden Fällen mit Brauneisenerz vor. —
+        </p>
+        <p>
           <lb/>Was nun das eigentliche Nebengestein des Erz-
           <lb/>lagers von Schlangenberg anbetrifft, so soll diess nach
           <lb/>Renovantz sowohl im Hangenden als im Liegenden
